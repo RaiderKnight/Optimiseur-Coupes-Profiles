@@ -1,6 +1,8 @@
 # Optimiseur de Coupes pour Profilés
 Application qui calcule comment couper des profilés (fer angle, H beam, I beam, canal, tubes, barre plate) à partir de profilés en stock en gaspillant le moins de matériaux possible, puis génère une liste de coupes imprimable pour l'atelier.
 
+<img src="https://github.com/RaiderKnight/Optimiseur-Coupes-Profiles/blob/main/Optimiseurdecoupes.png" width="750" height="750">
+
 *Application créer en C#, WinForm et .NET8
 
 # L'application offre comme options:
@@ -18,3 +20,6 @@ Application qui calcule comment couper des profilés (fer angle, H beam, I beam,
 12. Dessin de chaque barre à l'impression : ajoute un dessin de chaque barre avec ses pièces et leurs repères.
 13. Lignes de commentaire par coupe : taille (0 à 3 lignes) du cadre où le travailleur écrit où il est rendu.
 14. Et plus...
+
+<img src="https://github.com/RaiderKnight/Optimiseur-Coupes-Profiles/blob/main/creationliste.png" width="750" height="750">
+<img src="https://github.com/RaiderKnight/Optimiseur-Coupes-Profiles/blob/main/affichageImpression.png" width="750" height="750">
